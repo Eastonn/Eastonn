@@ -1,18 +1,6 @@
-# 你好 👋
-
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://data.whicdn.com/images/117603169/original.gif">
-</div>
-
-</br>
-</br>
-</br>
-
 # About ME 💬 :
 
-### - I'm 15 years old Software Engineer & Reverse Engineer Enthusiast from Russia.
-
-<img hight="400" width="500" alt="GIF" align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/af9343fd-15b1-4017-b496-c34256abe54f/daqzc7l-708441b5-51cd-4e70-93e9-ec4b76fb9851.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYWY5MzQzZmQtMTViMS00MDE3LWI0OTYtYzM0MjU2YWJlNTRmXC9kYXF6YzdsLTcwODQ0MWI1LTUxY2QtNGU3MC05M2U5LWVjNGI3NmZiOTg1MS5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.NPG2Sl_5dFPhy8mcdOv1bjqW-MQJU8nAdwmeybPm6As">
+### - 你好 👋. I'm 15 years old Software Engineer & Reverse Engineer Enthusiast from Russia.
 
 ### - Learning :
 
