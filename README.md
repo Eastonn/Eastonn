@@ -31,8 +31,6 @@
 <p>
  </br>
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Eastonn/Eastonn/blob/master/assets/93195.gif">
-
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk just ping me.
 
 <a href="https://t.me/Easton21">
@@ -43,10 +41,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
  </p>
 
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>
