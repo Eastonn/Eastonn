@@ -1,6 +1,6 @@
 # About ME 💬 :
 
-### - 你好 👋. I'm 15 years old Software Engineer & Reverse Engineer Enthusiast from Russia.
+### - 你好. I'm 15 years old Software Engineer & Reverse Engineer Enthusiast from Russia.
 
 ### - Learning :
 
@@ -8,6 +8,7 @@
 - ✨ Cheat Making
 - ✨ Data Science (some time xd)
 - ✨ Financial Markets
+- ✨ Chinese
 
 ### - Hobbies :
 
@@ -36,7 +37,7 @@
 
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Eastonn/Eastonn/blob/master/assets/93195.gif">
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk just ping me 😉.
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk just ping me.
 
 <a href="https://t.me/Easton21">
   <img align="left" alt="Telegram" width="130" hight="100" src="https://github.com/Eastonn/Eastonn/blob/master/assets/icons/telegram.png" />
@@ -56,7 +57,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="center" >  
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eastonn&theme=highcontrast"/>
-  </a>
-  </p>
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eastonn&label=%E2%9D%A4%EF%B8%8F&color=1f1f1f&style=flat" alt="eastonn" /> </p>
 
 ---
