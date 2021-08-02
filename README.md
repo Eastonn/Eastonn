@@ -6,15 +6,8 @@
 
 - ✨ Reverse Engineering
 - ✨ Cheat Making
-- ✨ Data Science (some time xd)
+- ✨ Data Science
 - ✨ Financial Markets
-- ✨ Chinese
-
-### - Hobbies :
-
-- ✨ Gaming
-- ✨ Watching Anime
-- ✨ Reading Light Novels
 
 </br>
 
