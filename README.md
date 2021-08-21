@@ -4,16 +4,16 @@
 
 ### - Learning :
 
-[-] Reverse Engineering
-[-] Cheat Making
-[-] Data Science
-[-] Financial Markets
+- Reverse Engineering
+- Cheat Making
+- Data Science
+- Financial Markets
 
 # Contact Me :
 
 <p align="center">
  </br>
- <a href="https://t.me/Easton21">
+ <a href="https://t.me/Easton21" align="center">
    <img align="left" alt="Telegram" width="130" hight="100" src="https://github.com/Eastonn/Eastonn/blob/master/assets/icons/telegram.png" />
  </a>
 </p>
