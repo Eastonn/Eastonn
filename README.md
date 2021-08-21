@@ -9,8 +9,6 @@
 - Data Science
 - Financial Markets
 
-# Contact Me :
-
 <p align="center" >  
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eastonn&theme=highcontrast"/>
 </p>
