@@ -1,11 +1,13 @@
 # About ME 💬 :
 
-### - I'm 16 years old Software Engineer & Reverse Engineer Enthusiast from Russia.
+### - Hello! I'm 16 years old Software Engineer & Reverse Engineer Enthusiast from Russia.
 
 ### - Learning :
 
+- Software Developing (C++, C)
 - Reverse Engineering
-- Cheat Making
+- Security Research
+- Game Hacking
 - Data Science
 - Financial Markets
 
