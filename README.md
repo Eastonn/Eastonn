@@ -14,7 +14,8 @@
 <p align="center" >  
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eastonn&theme=highcontrast"/>
 </p>
-<p align="center"> ![](https://komarev.com/ghpvc/?username=eastonn&label=%E2%9D%A4%EF%B8%8F&color=000000&style=flat) </p>
+
+![](https://komarev.com/ghpvc/?username=eastonn&label=%E2%9D%A4%EF%B8%8F&color=000000&style=flat)
 
 <p align="center">
  <a href="https://t.me/Easton21" align="center">
